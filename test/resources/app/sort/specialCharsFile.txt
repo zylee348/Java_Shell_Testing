@@ -1,0 +1,6 @@
+Apple
+#Fruit
+3Bananas
+1Orange
+$Market
+Zebra
